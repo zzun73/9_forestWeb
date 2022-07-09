@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+#wrap{
+	padding-top:250px;
+	text-align :center;
+}
+#table{
+	display : flex;
+	align-items:center;
+	justify-content:center;
+	
+}
+
+#King{
+	width : 300px
+}
