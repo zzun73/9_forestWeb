@@ -889,17 +889,7 @@ a:focus {
   text-transform: uppercase;
   padding-bottom: 5px;
 }
-.menu h2:before {
-  width: 28px;
-  height: 5px;
-  display: block;
-  content: "";
-  position: absolute;
-  bottom: 5px;
-  left: 50%;
-  margin-left: -14px;
-  background-color: #b80000;
-}
+
 .menu h2:after {
   width: 100px;
   height: 1px;
